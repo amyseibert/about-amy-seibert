@@ -1,8 +1,7 @@
 h1{
-    color: darkcyan;
+    color: darkblue;
 }
-.center{
-    width: 100%;
-    margin: auto;
+body {
+    background-color: lightblue;
     text-align: center;
 }
